@@ -51,3 +51,12 @@
     background-clip: padding-box;
     border: 1px solid #ffffff;
 }
+
+.d-flex {
+    display: flex !important;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
